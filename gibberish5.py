@@ -21,3 +21,4 @@ y = input('enter the string')
 fun(y)
 
 #Problem here
+lnsdlcnsldnclsnclksnclskcnlkslcnsc

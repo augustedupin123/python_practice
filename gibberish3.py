@@ -6,3 +6,6 @@ str3 = input('enter string 3')
 str4 = input('enter string 4')
 str5 = input('enter string 5')
 strfunction(str1, str2, str3, str4, str5)
+
+
+lsnlnsclnlknclnc
