@@ -1,6 +1,6 @@
 def greater_than_certain(set,num):
     for i in set:
-        if(set[i] < num):
+        if(i < num):
             print('all nos. are not greater')
             break;
         else:
