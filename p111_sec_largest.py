@@ -1,14 +1,4 @@
-'''
-AAAAA
-BBBBB
-CCCCC
-DDDDD
-EEEEE'''
-
-'''for i in range(65,70):
-    for j in range(65,70):
-        print(chr(i), sep="", end="")
-    print()'''
+#Second largest from a list
 
 def sec_lar(list1):
     max1 = 0
@@ -22,14 +12,7 @@ def sec_lar(list1):
             list2.append(list1[j])
     for k in range(len(list2)):
         if(list2[k]>max2):
-            max2 = list2[j]
+            max2 = list2[k]
     return (max2)
-print sec_lar([23,1244,235,23,423,34,23,235,23])
-    
-
-
-
-
-
-    
-    
+a = sec_lar([23,1244,235,23,423,34,23,235,23])
+print (a)

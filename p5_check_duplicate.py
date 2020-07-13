@@ -1,5 +1,5 @@
 
-from inputs import list_input
+'''from inputs import list_input
 
 def check_duplicate(l):
     # which element is duplicate
@@ -12,5 +12,8 @@ def check_duplicate(l):
 if check_duplicate(list_input(6)):
     print("Duplicate found")
 else:
-    print("Duplicate not found")
+    print("Duplicate not found")'''
+pw = 'qwefkwgb@@##hefofn'
+for i in range(len(pw)):
+    print (ord(pw[i]))
 
