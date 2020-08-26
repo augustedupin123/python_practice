@@ -6,8 +6,15 @@
     print(name1_str, name2_str, name3_str, name4_str)
 main()'''
 
-a = 'imputstring'
+'''a = 'imputstring'
 print (a[0:2])
-print (a[2:])
+print (a[2:])'''
+
+a = 'refer'
+b = 'efe'
+if b in a:
+    print(1)
+else:
+    print(0)
 
 
